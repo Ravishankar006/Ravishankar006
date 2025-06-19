@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi there, I'm Ravishankar MB<br><br>🎓 I'm currently a final semester MCA student based in Mysore.<br>💻 Passionate about building software and currently working on various college projects.<br>🌱 I’m looking for opportunities in the IT industry to grow as a developer.<br><br>• Languages:  Java, C#, HTML, CSS, JavaScript, Python (basic)<br>• Tools & Technologies: GitHub, Visual Studio, VS Code<br><br>• Seeking entry-level roles or internships in software development<br>• Constantly learning and improving my programming skills<br>• Interested in building real-world web and desktop applications
 
-
+check my Resune
+[Ravishankarmb_resume(UPDATED).pdf](https://github.com/user-attachments/files/20809755/Ravishankarmb_resume.UPDATED.pdf)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravishankar-mb-8366b1239/?originalSubdomain=in) 
 
